@@ -25,7 +25,7 @@ while (1)
 }
 */
 
-
+/*
 int compteur = 0;
 
 do
@@ -33,3 +33,22 @@ do
     printf("Bienvenue sur OpenClassrooms !\n");
     compteur++;
 } while (compteur < 10);
+*/
+
+
+/*
+int compteur = 0;
+
+while (compteur < 10)
+{
+    printf("Bienvenue sur OpenClassrooms !\n");
+    compteur++;
+}
+*/
+
+int compteur;
+
+for (compteur = 0 ; compteur < 10 ; compteur++)
+{
+    printf("Bienvenue sur OpenClassrooms !\n");
+}
