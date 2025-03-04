@@ -8,11 +8,18 @@ while (compteur < 10)
 }
 */
 
-
+/*
 int nombreEntre = 0;
 
 while (nombreEntre != 47)
 {
     printf("Tapez le nombre 47 ! ");
     scanf("%d", &nombreEntre);
+}
+*/
+
+
+while (1)
+{
+    printf("Boucle infinie\n");
 }
